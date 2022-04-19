@@ -1,0 +1,15 @@
+ _            _             _   
+| |_ __ _ ___| | _____ __ _| |_ 
+| __/ _` / __| |/ / __/ _` | __|
+| || (_| \__ \   < (_| (_| | |_ 
+ \__\__,_|___/_|\_\___\__,_|\__|
+                                
+
+
+version 0.9.30
+Not in terminal, reprint now using normal build-in print function.
+
+[ERROR  ] : Failed to parse template /home/ec2-user/environment/qs-workshop/templates/master.template.yaml mapping values are not allowed in this context at   in "<unicode string>", line 21, column 11
+[WARN   ] : No stacks were created... skipping cleanup.
+[ERROR  ] : ScannerError mapping values are not allowed in this context
+  in "<unicode string>", line 21, column 11
